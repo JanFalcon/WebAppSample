@@ -1,2 +1,2 @@
-#WebApple Sample
-Studing asp.net core MVS
+#WebApp Sample
+Studying asp.net core MVS
